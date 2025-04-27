@@ -57,8 +57,50 @@ A `Makefile` is provided with these targets:
 └── README.md                    # README file
 ```
 
-## Contributing
+## Example
 
-Issues and pull requests are welcome!
+<div style="background:#f6f8fa;border-radius:6px;padding:16px;border:1px solid #d0d7de;overflow:auto">
+
+<pre>
+
+Select operation:
+ 1) Add
+ 2) List
+ 0) Exit
+
+Choice: 1
+
+Select entity:
+ 1) Location
+ 2) Employee
+ 3) Product
+ 0) Back
+
+Choice: 1
+Location Name: Test
+Address: Test
+Location added.
+
+Select operation:
+ 1) Add
+ 2) List
+ 0) Exit
+
+Choice: 2
+
+Select entity:
+ 1) Location
+ 2) Employee
+ 3) Product
+ 0) Back
+
+Choice: 1
+
+ID: 1, Name: Test, Address: Test
+</pre>
+</div>
+
+Table's content hown in database after executing the code:
+![Table](screenshots/table_content_test.png)
 
 
