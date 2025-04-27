@@ -6,7 +6,7 @@ This project is a command‑line application in C++ that integrates with a Postg
 
 - Add and list **Locations** (`id`, `name`, `address`).
 - Add and list **Employees** (`id`, `name`, `position`, `salary`, `location_id`).
-- Add and list **Products** (`id`, `name`, `price`, `category`).- Associate products with locations via a `product_locations` join table.
+- Add and list **Products** (`id`, `name`, `price`, `category`).
 - Automatic schema initialization
 
 ## Database Setup
