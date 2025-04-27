@@ -30,7 +30,7 @@ Ensure a PostgreSQL database exists and your credentials match.
 
 Below is the entity-relationship diagram of the database tables:
 
-![Database Schema](schema_diagram.png)
+![Database Schema](screenshots/schema_diagram.png)
 
 ## Building & Testing
 
