@@ -100,7 +100,7 @@ ID: 1, Name: Test, Address: Test
 </pre>
 </div>
 
-Table's content hown in database after executing the code:
+Table's content shown in database after executing the code:
 ![Table](screenshots/table_content_test.png)
 
 
