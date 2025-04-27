@@ -1,6 +1,6 @@
 # Store Management Application
 
-This project is a command‑line application in C++ that integrates with a PostgreSQL database using **libpq** (the official C API for PostgreSQL) and **pgAdmin** for databse managment. It manages store **Locations**, **Employees**, and **Products**, and includes unit tests written with **Catch2**.
+This project is a command‑line application in C++ that integrates with a PostgreSQL database using **libpq** (the official C API for PostgreSQL) and **pgAdmin** for database managment. It manages store **Locations**, **Employees**, and **Products**, and includes unit tests written with **Catch2**.
 
 ## Features
 
